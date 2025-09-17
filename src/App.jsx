@@ -3,7 +3,7 @@ import Login from './components/Auth/Login'
 import EmployeeDashboard from './components/Dashboard/EmployeeDashboard'
 import AdminDashboard from './components/Dashboard/AdminDashboard'
 import { AuthContext } from './context/Authprovider'
-
+import logo from './assets/react.svg'; 
 const App = () => {
 
   const [user, setUser] = useState(null)
