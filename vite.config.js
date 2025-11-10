@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-   base: "/employee-management-system/", 
+  base: "/employee-management-system/",
   plugins: [react(), tailwindcss()],
-})
+});
 
