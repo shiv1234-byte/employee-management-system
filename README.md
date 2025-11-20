@@ -64,9 +64,11 @@ Context is initialized in AuthProvider.jsx and wrapped around the app in main.js
 All task logic is handled in CreateTask.jsx, with dynamic updates to employee state.
 
 LocalStorage is used to simulate backend persistence—ideal for mock rounds and demos.
-![Screenshot_6-9-2025_19434_localhost](https://github.com/user-attachments/assets/c44872f4-ca98-4908-9bcc-166d48f06b02)
-<img width="800" height="601" alt="image" src="https://github.com/user-attachments/assets/21560cad-ec66-4085-9870-ddd5d49d3ffe" />
-<img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/a318ea93-6e9f-4f03-ad34-c0bae9fcdad8" />
+<img width="1823" height="1089" alt="image" src="https://github.com/user-attachments/assets/89d02059-fcb9-48e4-86d2-28843f6bc134" />
+<img width="979" height="753" alt="image" src="https://github.com/user-attachments/assets/58ed0ef1-3a81-40bf-b67c-ae9553f4672c" />
+<img width="1818" height="784" alt="image" src="https://github.com/user-attachments/assets/2ddc581f-f605-4051-99f5-21f9cecf1f60" />
+
+
 
 
 
