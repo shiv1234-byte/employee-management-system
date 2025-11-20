@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import Login from './components/Auth/Login';
 import EmployeeDashboard from './components/Dashboard/EmployeeDashboard';
 import AdminDashboard from './components/Dashboard/AdminDashboard';
-import { AuthContext } from './context/Authprovider';
+import { AuthContext } from './context/AuthProvider';
 
 const App = () => {
   const [user, setUser] = useState(null);
