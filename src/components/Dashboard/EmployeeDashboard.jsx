@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import Header from '../other/header';
 import TaskListNumbers from '../other/TaskListNumber';
 import TaskList from '../TaskList/TaskList';
-import { AuthContext } from '../../context/Authprovider';
+import { AuthContext } from '../../context/AuthProvider';
 
 const EmployeeDashboard = (props) => {
   const [userData, setUserData] = useContext(AuthContext);
